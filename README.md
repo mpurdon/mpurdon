@@ -1,13 +1,13 @@
 <div id= "header" align="center">
     <h1>Matthew Purdon 👨‍💻</h1>
     <div id="badges" align="center">
-        <a href="https://www.linkedin.com/in/matthew-purdon">
+        <a href="https://www.linkedin.com/in/matthewdjpurdon">
             <code>LinkedIn</code>
         </a>
         <a href="https://www.instagram.com/mdjpurdon/">
             <code>Instagram</code>
         </a>
-        <a href="https://x.com/mdjpurdon">
+        <a href="https://x.com/mpurdon">
             <code>X</code>
         </a>
         <a href="https://purdonmoi.com/">
