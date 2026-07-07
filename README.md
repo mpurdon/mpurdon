@@ -10,7 +10,7 @@
         <a href="https://x.com/mpurdon">
             <code>X</code>
         </a>
-        <a href="https://purdonmoi.com/">
+        <a href="https://matthewpurdon.me/">
             <code>Personal Site</code>
         </a>
     </div>
